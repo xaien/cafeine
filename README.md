@@ -1,5 +1,9 @@
 # Cafeine
 
+> First you have to had two SQL's user :
+> -  user: "cafeine", password: "cafeine"
+> -  user: "postgres", password: ""
+
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
