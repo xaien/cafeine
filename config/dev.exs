@@ -35,8 +35,8 @@ config :phoenix, :stacktrace_depth, 20
 # Configure your database
 config :cafeine, Cafeine.Repo,
   adapter: Ecto.Adapters.Postgres,
-  username: "postgres",
-  password: "postgres",
+  username: "cafeine",
+  password: "cafeine",
   database: "cafeine_dev",
   hostname: "localhost",
   pool_size: 10
