@@ -1,4 +1,8 @@
+
+
 # Cafeine
+
+See `cafeine-frontend` for the client implementation
 
 > First you have to had two SQL's user :
 > -  user: "cafeine", password: "cafeine"
