@@ -1,4 +1,4 @@
-
+![status](https://travis-ci.org/xaien/cafeine-api.svg?branch=master)
 
 # Cafeine
 
